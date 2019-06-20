@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spyke
 
 > A Vue.js project
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# spyke
+>>>>>>> acc457f1a2ea24a40441e51a6455a0270968e4f5
